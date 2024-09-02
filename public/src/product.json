@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Citrus Burst",
+    "description": "Parfum dengan aroma citrus yang segar dan energik.",
+    "price": 250000,
+    "imgUrl": "https://example.com/images/products/citrus_burst.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "stock": 7
+  },
+  {
+    "name": "Ocean Breeze",
+    "description": "Aroma laut yang menyegarkan, ideal untuk hari santai.",
+    "price": 270000,
+    "imgUrl": "https://example.com/images/products/ocean_breeze.jpg",
+    "categoryId": 1,
+    "authorId": 2,
+    "stock": 9
+  },
+  {
+    "name": "Mint Fresh",
+    "description": "Aroma mint yang dingin dan segar untuk menyegarkan hari Anda.",
+    "price": 260000,
+    "imgUrl": "https://example.com/images/products/mint_fresh.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "stock": 5
+  },
+  {
+    "name": "Cool Morning",
+    "description": "Kesegaran pagi dengan aroma segar daun dan embun.",
+    "price": 280000,
+    "imgUrl": "https://example.com/images/products/cool_morning.jpg",
+    "categoryId": 1,
+    "authorId": 2,
+    "stock": 8
+  },
+  {
+    "name": "Forest Essence",
+    "description": "Aroma kayu cedar dan sandalwood yang mendalam.",
+    "price": 300000,
+    "imgUrl": "https://example.com/images/products/forest_essence.jpg",
+    "categoryId": 2,
+    "authorId": 2,
+    "stock": 6
+  },
+  {
+    "name": "Mountain Pine",
+    "description": "Aroma pinus pegunungan yang sejuk dan menenangkan.",
+    "price": 310000,
+    "imgUrl": "https://example.com/images/products/mountain_pine.jpg",
+    "categoryId": 2,
+    "authorId": 1,
+    "stock": 10
+  },
+  {
+    "name": "Oakwood",
+    "description": "Aroma kayu oak yang hangat dan klasik.",
+    "price": 320000,
+    "imgUrl": "https://example.com/images/products/oakwood.jpg",
+    "categoryId": 2,
+    "authorId": 2,
+    "stock": 7
+  },
+  {
+    "name": "Sandalwood Bliss",
+    "description": "Kehangatan sandalwood yang eksotis dan mendalam.",
+    "price": 330000,
+    "imgUrl": "https://example.com/images/products/sandalwood_bliss.jpg",
+    "categoryId": 2,
+    "authorId": 1,
+    "stock": 9
+  },
+  {
+    "name": "Rose Petals",
+    "description": "Aroma bunga mawar yang lembut dan romantis.",
+    "price": 280000,
+    "imgUrl": "https://example.com/images/products/rose_petals.jpg",
+    "categoryId": 3,
+    "authorId": 2,
+    "stock": 8
+  },
+  {
+    "name": "Jasmine Delight",
+    "description": "Aroma bunga melati yang menenangkan dan manis.",
+    "price": 290000,
+    "imgUrl": "https://example.com/images/products/jasmine_delight.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "stock": 6
+  },
+  {
+    "name": "Lavender Fields",
+    "description": "Aroma lavender yang menenangkan dan membawa kedamaian.",
+    "price": 270000,
+    "imgUrl": "https://example.com/images/products/lavender_fields.jpg",
+    "categoryId": 3,
+    "authorId": 2,
+    "stock": 10
+  },
+  {
+    "name": "Orchid Bloom",
+    "description": "Aroma bunga anggrek yang eksotis dan memikat.",
+    "price": 300000,
+    "imgUrl": "https://example.com/images/products/orchid_bloom.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "stock": 7
+  },
+  {
+    "name": "Spice Harmony",
+    "description": "Aroma rempah-rempah yang kaya dan eksotis.",
+    "price": 320000,
+    "imgUrl": "https://example.com/images/products/spice_harmony.jpg",
+    "categoryId": 4,
+    "authorId": 1,
+    "stock": 5
+  },
+  {
+    "name": "Amber Gold",
+    "description": "Aroma amber yang hangat dan mewah.",
+    "price": 330000,
+    "imgUrl": "https://example.com/images/products/amber_gold.jpg",
+    "categoryId": 4,
+    "authorId": 2,
+    "stock": 9
+  },
+  {
+    "name": "Vanilla Night",
+    "description": "Aroma vanila yang hangat dan lembut untuk suasana malam.",
+    "price": 310000,
+    "imgUrl": "https://example.com/images/products/vanilla_night.jpg",
+    "categoryId": 4,
+    "authorId": 2,
+    "stock": 6
+  },
+  {
+    "name": "Saffron Spice",
+    "description": "Aroma saffron yang mewah dan berani.",
+    "price": 340000,
+    "imgUrl": "https://example.com/images/products/saffron_spice.jpg",
+    "categoryId": 4,
+    "authorId": 1,
+    "stock": 8
+  },
+  {
+    "name": "Tropical Mix",
+    "description": "Aroma buah tropis yang manis dan segar.",
+    "price": 260000,
+    "imgUrl": "https://example.com/images/products/tropical_mix.jpg",
+    "categoryId": 5,
+    "authorId": 1,
+    "stock": 7
+  },
+  {
+    "name": "Berry Splash",
+    "description": "Aroma buah beri yang segar dan manis.",
+    "price": 250000,
+    "imgUrl": "https://example.com/images/products/berry_splash.jpg",
+    "categoryId": 5,
+    "authorId": 2,
+    "stock": 9
+  },
+  {
+    "name": "Peach Dream",
+    "description": "Aroma persik yang lembut dan manis.",
+    "price": 270000,
+    "imgUrl": "https://example.com/images/products/peach_dream.jpg",
+    "categoryId": 5,
+    "authorId": 1,
+    "stock": 6
+  },
+  {
+    "name": "Apple Crisp",
+    "description": "Aroma apel segar dengan sedikit sentuhan manis.",
+    "price": 280000,
+    "imgUrl": "https://example.com/images/products/apple_crisp.jpg",
+    "categoryId": 5,
+    "authorId": 2,
+    "stock": 10
+  }
+]
