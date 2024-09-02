@@ -11,7 +11,7 @@ export default function Navbar() {
     <>
       <div className="navbar bg-base-100 shadow-md">
         <div className="navbar-start">
-          <Link to="/home" className="btn btn-ghost text-xl">
+          <Link to="/" className="btn btn-ghost text-xl">
             <img src="/logo_HMNS_black_2016x.webp" alt="" className="w-32" />
           </Link>
         </div>
